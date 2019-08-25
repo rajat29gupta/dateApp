@@ -1,0 +1,24 @@
+{
+    "title": "Product Feedback",
+    "showProgressBar": "top",
+    "pages": [
+        {
+            "name": "page1",
+            "elements": [
+             {
+              "type": "text",
+              "name": "How are you?"
+             }
+            ]
+           },
+           {
+            "name": "page1",
+            "elements": [
+             {
+              "type": "text",
+              "name": "What is your name?"
+             }
+            ]
+           }
+       ]
+}

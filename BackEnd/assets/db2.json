@@ -1,0 +1,33 @@
+{
+    "title": "Customer Feedback ",
+    "showProgressBar": "top",
+    "pages": [
+        {
+            "name": "page1",
+            "elements": [
+             {
+              "type": "text",
+              "name": "How was the service?"
+             }
+            ]
+           },
+           {
+            "name": "page1",
+            "elements": [
+             {
+              "type": "text",
+              "name": "Any Suggestions?"
+             }
+            ]
+           },
+           {
+            "name": "page1",
+            "elements": [
+             {
+              "type": "text",
+              "name": "Any Last Question?"
+             }
+            ]
+           }
+       ]
+}

@@ -1,0 +1,80 @@
+{
+ "pages": [
+  {
+   "name": "page1",
+   "elements": [
+    {
+     "type": "checkbox",
+     "name": "Have you ever had a headache?",
+     "choices": [
+      "Yes",
+      "No"
+     ]
+    },
+    {
+     "type": "checkbox",
+     "name": "Have you had a headache in the last 3 months?",
+     "choices": [
+      "Yes",
+      "No"
+     ]
+    },{
+     "type": "checkbox",
+     "name": "How often did you have a headache in the last 3 months?",
+     "choices": [
+      "Once a month or less",
+      "More than once a month but less than once a week",
+      "One to three times a week"
+     ]
+    },{
+     "type": "checkbox",
+     "name": "On how many days in the last 3 months did you have a headache? (If a headache lasted more than 1 day, count each day)",
+     "choices": [
+      "1 to 12 days",
+      "13 to 20 days",
+      "More than 20 days"
+     ]
+    },{
+     "type": "checkbox",
+     "name": "Please tell us about how long your headaches lasted on average in the last 3 months. Firstly when you don't take any medicine and then when you do take medicine",
+     "choices": [
+      "Less than 30 minutes",
+      "30 minutes to 4 hours",
+      "4 to 24 hours"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page2",
+   "elements": [
+    {
+     "type": "checkbox",
+     "name": "How would you rate the pain from your headaches in the last 3 months? Please tick the box that best describes your headache pain",
+     "choices": [
+      "None",
+      "Mild",
+      "Moderate"
+     ]
+    },{
+     "type": "checkbox",
+     "name": "On how many mornings in the last 3 months did you wake up with a headache?",
+     "choices": [
+      "1 to 3 mornings",
+      "4 to 6 mornings",
+      "7 to 12 mornings"
+     ]
+    },{
+     "type": "checkbox",
+     "name": "When you have a headache at HOME what do you usually do? Please tick the one box that you do most often",
+     "choices": [
+      "Put up with the headache and continue as normal",
+      "Take a headache or pain killing medicine and continue as normal",
+      "Stop what you are doing and rest"
+     ]
+    }
+   ] 
+  }
+
+ ]
+}

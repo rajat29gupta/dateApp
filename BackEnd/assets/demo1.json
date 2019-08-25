@@ -1,0 +1,144 @@
+{
+ "pages": [
+  {
+   "name": "page1",
+   "elements": [
+    {
+     "type":"radiogroup",
+     "name": "Have you ever had any personal information online (that you put there or someone else did)?",
+     "choices": [
+      "I have personal information online",
+      "I don't think I have personal information online",
+      "I’m not sure"
+     ]
+    },
+    {
+     "type": "radiogroup",
+     "name": "Do you think these pieces of information should have the same levels of protection against unauthorised use?",
+     "choices": [
+      "Yes, these should have the same level of protection",
+      "Some should have greater levels of protection.",
+      "I’m not sure"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "page2",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "Websites have variable levels of security. Have you had any negative experiences from your personal information being accessed online?",
+     "choices": [
+      "Yes",
+      "No",
+      "I am not sure."
+     ]
+    },
+    {
+        "type": "radiogroup",
+        "name": "Do you know who has online access to your DNA information?",
+        "choices": [
+         "Yes",
+         "I am not sure."
+        ]
+    }
+   ] 
+  },
+  {
+   "name": "page3",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "Are you worried about who might have access to your DNA information?",
+     "choices": [
+      "I am very worried",
+      "I am somewhat worried",
+      "I am not worried",
+      "I dont really care"
+     ]
+    },
+    {
+        "type": "radiogroup",
+        "name": "What do you think?",
+        "choices": [
+         " For me, DNA information is different to other medical information",
+         "For me, DNA information is the same as other medical information",
+         "I am not sure."
+        ]
+    }
+   ] 
+  },
+  {
+   "name": "page4",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "Would being offered a DNA readout influence your decision to donate? (please tick one box):",
+     "choices": [
+      "My decision to donate is wholly influenced by being able to get my DNA readout in return",
+      "My decision to donate is partly influenced by being able to get my DNA readout in return, but it is also influenced by other factors",
+      "My decision to donate is not influenced by being able to get my DNA readout in return, I would donate for other reasons",
+      " I wouldn’t donate my DNA information",
+      "I am not sure"
+     ]
+    },
+    {
+        "type": "radiogroup",
+        "name": "Given the above assumptions, would you donate your anonymous DNA information and medical information for use by medical doctors?",
+        "choices": [
+         "Yes",
+         "No",
+         "I am not sure."
+        ]
+    }
+   ] 
+  },
+  {
+   "name": "page5",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "Within the above three scenarios, let’s also assume there is a chance that you can be PERSONALLY IDENTIFIED by any of the researchers accessing your data. We want to know what you think...",
+     "choices": [
+      "I wouldn’t donate my DNA information and medical information",
+      "I’d donate my DNA information and medical information so it could be used by..."
+     ]
+    },
+    {
+        "type": "radiogroup",
+        "name": "What do you think?",
+        "choices": [
+         " For me, DNA information is different to other medical information",
+         "For me, DNA information is the same as other medical information",
+         "I am not sure."
+        ]
+    }
+   ] 
+  },
+  {
+   "name": "page6",
+   "elements": [
+    {
+     "type": "radiogroup",
+     "name": "If someone linked your name, address and phone number to your DNA information, do you think you could be harmed in any way from this?",
+     "choices": [
+      "Yes",
+      "No",
+      "I am not sure"
+     ]
+    },
+    {
+        "type": "radiogroup",
+        "name": "If someone linked your name, address and phone number to medical information, do you think you could be harmed in any way from this?",
+        "choices": [
+         "Yes",
+         "No",
+         "I am not sure."
+        ]
+    }
+   ] 
+  }
+
+ ]
+}

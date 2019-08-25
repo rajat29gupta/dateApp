@@ -1,0 +1,84 @@
+{
+    "title": "Product Feedback",
+    "showProgressBar": "top",
+    "pages": [
+        {
+            "name": "page1",
+            "elements": [
+             {
+                "type": "checkbox",
+                 "name": "Had you known that heart disease is the number one killer of women?",
+                 "choices": [
+                  "Yes",
+                  "No"
+                 ]
+             },
+             {
+                "type": "checkbox",
+                 "name": "Did you know that heart disease and heart attack are a greater threat to more women than all forms of cancer combined?",
+                 "choices": [
+                  "Yes",
+                  "No"
+                 ]
+             },
+             {
+                "type": "checkbox",
+                 "name": "Did you know that EKGs are not always diagnostic in determining heart attacks in women?",
+                 "choices": [
+                  "Yes",
+                  "No"
+                 ]
+             },
+             {
+                "type": "checkbox",
+                 "name": "Did you know that young women can and do have heart attacks,and that their risk escalates rapidly sfter menopause?",
+                 "choices": [
+                  "Yes",
+                  "No"
+                 ]
+             },
+             {
+                "type": "checkbox",
+                 "name": "Have you had a heart attack?",
+                 "choices": [
+                  "Yes",
+                  "No"
+                 ]
+             }
+            ]
+           },
+           {
+            "name": "page1",
+            "elements": [
+             {
+              "type": "text",
+              "name": "If so, at what age?"
+             },
+             {
+              "type": "text",
+              "name": "If you have had a heart attack, please describe your experience emotionally and physically?"
+             },
+             {
+              "type": "checkbox",
+              "name": "Did you tell others that you had a heart attacks?",
+              "choices": [
+                  "Yes",
+                  "No"
+                 ]
+             },
+             {
+              "type": "text",
+              "name": "What do you want women to understand about your experience of having had a heart attack?"
+             },
+             {
+              "type": "text",
+              "name": "Did you have heart disease?",
+              "choices": [
+                  "Yes",
+                  "No"
+                 ]
+             }
+            ]
+           }
+       ]
+}

@@ -1,0 +1,25 @@
+2019-08-25T20:16:13.342340200 0.025145s notice: In recursion: removing file 'C:\\Users\\Rajat\\Desktop\\dating\\dateapp\\rethinkdb_data\\tmp'
+2019-08-25T20:16:13.343341000 0.026195s warn: Trying to delete non-existent file 'C:\\Users\\Rajat\\Desktop\\dating\\dateapp\\rethinkdb_data\\tmp'
+2019-08-25T20:16:13.346329600 0.029615s notice: Initializing directory C:\\Users\\Rajat\\Desktop\\dating\\dateapp\\rethinkdb_data
+2019-08-25T20:16:13.347327500 0.030380s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory 'C:\\Users\\Rajat\\Desktop\\dating\\dateapp\\rethinkdb_data' did not already exist or is empty.)
+2019-08-25T20:16:13.347327501 0.030414s notice: Running rethinkdb 2.3.6-windows (MSC 190024215)...
+2019-08-25T20:16:13.348325300 0.030744s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2019-08-25T20:16:13.348325301 0.030877s notice: Loading data from directory C:\\Users\\Rajat\\Desktop\\dating\\dateapp\\rethinkdb_data
+2019-08-25T20:16:13.687334200 0.370089s info: Automatically using cache size of 220 MB
+2019-08-25T20:16:13.693113100 0.375513s notice: Listening for intracluster connections on port 29015
+2019-08-25T20:16:13.694119400 0.377212s notice: Listening for client driver connections on port 28015
+2019-08-25T20:16:13.694119401 0.377345s notice: Listening for administrative HTTP connections on port 8080
+2019-08-25T20:16:13.694119402 0.377347s notice: Listening on cluster address: 127.0.0.1
+2019-08-25T20:16:13.694119403 0.377352s notice: Listening on driver address: 127.0.0.1
+2019-08-25T20:16:13.694119404 0.377353s notice: Listening on http address: 127.0.0.1
+2019-08-25T20:16:13.694119405 0.377355s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2019-08-25T20:16:13.694119406 0.377357s notice: Server ready, "DESKTOP_MJJ2EPU_jgg" e4d04cf3-0823-45a9-82c5-7ccae9e77a53
+2019-08-25T20:18:00.754744200 107.437201s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
+2019-08-25T20:19:14.790541400 181.473853s info: Table 38cf1fb6-ddf6-499c-adaa-527995137171: Starting a new Raft election for term 1.
+2019-08-25T20:19:14.796322100 181.479209s info: Table 38cf1fb6-ddf6-499c-adaa-527995137171: Added replica on this server.
+2019-08-25T20:19:14.812964400 181.495382s info: Table 38cf1fb6-ddf6-499c-adaa-527995137171: This server is Raft leader for term 1. Latest log index is 0.
+2019-08-25T20:56:34.328553700 2421.011981s notice: Server got Control-C; shutting down...
+2019-08-25T20:56:34.334620000 2421.017618s notice: Shutting down client connections...
+2019-08-25T20:56:34.336614500 2421.018972s notice: All client connections closed.
+2019-08-25T20:56:34.336614501 2421.018980s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2019-08-25T20:56:34.387619700 2421.070085s notice: Storage engine shut down.
