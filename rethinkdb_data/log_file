@@ -23,3 +23,73 @@
 2019-08-25T20:56:34.336614500 2421.018972s notice: All client connections closed.
 2019-08-25T20:56:34.336614501 2421.018980s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
 2019-08-25T20:56:34.387619700 2421.070085s notice: Storage engine shut down.
+2019-08-26T14:43:07.983240100 0.191271s notice: Running rethinkdb 2.3.6-windows (MSC 190024215)...
+2019-08-26T14:43:07.989607400 0.196497s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2019-08-26T14:43:07.992635000 0.200075s notice: Loading data from directory C:\\Users\\Rajat\\Desktop\\dating\\dateapp\\rethinkdb_data
+2019-08-26T14:43:08.090798700 0.297805s info: Automatically using cache size of 2113 MB
+2019-08-26T14:43:08.124453700 0.331713s notice: Listening for intracluster connections on port 29015
+2019-08-26T14:43:08.244116600 0.451203s notice: Listening for client driver connections on port 28015
+2019-08-26T14:43:08.244116601 0.451439s notice: Listening for administrative HTTP connections on port 8080
+2019-08-26T14:43:08.244116602 0.451456s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2019-08-26T14:43:08.244116603 0.451457s notice: Listening on driver addresses: 127.0.0.1, ::1
+2019-08-26T14:43:08.244116604 0.451458s notice: Listening on http addresses: 127.0.0.1, ::1
+2019-08-26T14:43:08.244116605 0.451459s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2019-08-26T14:43:08.244116606 0.451460s notice: Server ready, "DESKTOP_MJJ2EPU_jgg" e4d04cf3-0823-45a9-82c5-7ccae9e77a53
+2019-08-26T14:43:08.311717700 0.519370s warn: Problem when checking for new versions of RethinkDB: HTTP request to update.rethinkdb.com failed.
+2019-08-26T14:43:09.856232400 2.063273s info: Table 38cf1fb6-ddf6-499c-adaa-527995137171: Starting a new Raft election for term 2.
+2019-08-26T14:43:09.863384400 2.070873s info: Table 38cf1fb6-ddf6-499c-adaa-527995137171: This server is Raft leader for term 2. Latest log index is 3.
+2019-08-26T22:50:25.568026800 29248.931844s notice: Server got Control-C; shutting down...
+2019-08-26T22:50:25.569304100 29248.933188s notice: Shutting down client connections...
+2019-08-26T22:50:25.577919500 29248.941791s notice: All client connections closed.
+2019-08-26T22:50:25.577919501 29248.941833s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2019-08-26T22:50:25.608238900 29248.971988s notice: Storage engine shut down.
+2019-08-27T13:39:47.304506400 0.062729s notice: Running rethinkdb 2.3.6-windows (MSC 190024215)...
+2019-08-27T13:39:47.306504600 0.064427s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2019-08-27T13:39:47.307542000 0.064802s notice: Loading data from directory C:\\Users\\Rajat\\Desktop\\dating\\dateapp\\rethinkdb_data
+2019-08-27T13:39:47.366774800 0.124397s info: Automatically using cache size of 757 MB
+2019-08-27T13:39:47.382144800 0.139628s notice: Listening for intracluster connections on port 29015
+2019-08-27T13:39:47.453529400 0.210961s notice: Listening for client driver connections on port 28015
+2019-08-27T13:39:47.453529401 0.211245s notice: Listening for administrative HTTP connections on port 8080
+2019-08-27T13:39:47.453529402 0.211249s notice: Listening on cluster address: 127.0.0.1
+2019-08-27T13:39:47.453529403 0.211250s notice: Listening on driver address: 127.0.0.1
+2019-08-27T13:39:47.453529404 0.211252s notice: Listening on http address: 127.0.0.1
+2019-08-27T13:39:47.453529405 0.211253s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2019-08-27T13:39:47.453529406 0.211261s notice: Server ready, "DESKTOP_MJJ2EPU_jgg" e4d04cf3-0823-45a9-82c5-7ccae9e77a53
+2019-08-27T13:39:48.429467300 1.186913s info: Table 38cf1fb6-ddf6-499c-adaa-527995137171: Starting a new Raft election for term 3.
+2019-08-27T13:39:48.434092800 1.191385s info: Table 38cf1fb6-ddf6-499c-adaa-527995137171: This server is Raft leader for term 3. Latest log index is 6.
+2019-08-27T14:44:11.292569800 3864.050530s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
+2019-08-27T19:11:10.441251700 19883.198594s notice: Server got Control-C; shutting down...
+2019-08-27T19:11:10.445016700 19883.202700s notice: Shutting down client connections...
+2019-08-27T19:11:10.447010700 19883.205028s notice: All client connections closed.
+2019-08-27T19:11:10.447010701 19883.205033s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2019-08-27T19:11:10.486318200 19883.243599s notice: Storage engine shut down.
+2019-08-28T13:07:40.591216100 0.071044s notice: Running rethinkdb 2.3.6-windows (MSC 190024215)...
+2019-08-28T13:07:40.593208800 0.072867s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2019-08-28T13:07:40.594208800 0.073029s notice: Loading data from directory C:\\Users\\Rajat\\Desktop\\dating\\dateapp\\rethinkdb_data
+2019-08-28T13:07:40.761787900 0.241251s info: Automatically using cache size of 100 MB
+2019-08-28T13:07:40.761787901 0.241290s warn: Cache size does not leave much memory for server and query overhead (available memory: 1096 MB).
+2019-08-28T13:07:40.761787902 0.241303s warn: Cache size is very low and may impact performance.
+2019-08-28T13:07:40.779761100 0.258519s notice: Listening for intracluster connections on port 29015
+2019-08-28T13:07:40.858522700 0.337719s notice: Listening for client driver connections on port 28015
+2019-08-28T13:07:40.858522701 0.337981s notice: Listening for administrative HTTP connections on port 8080
+2019-08-28T13:07:40.858522702 0.337984s notice: Listening on cluster address: 127.0.0.1
+2019-08-28T13:07:40.858522703 0.338006s notice: Listening on driver address: 127.0.0.1
+2019-08-28T13:07:40.858522704 0.338008s notice: Listening on http address: 127.0.0.1
+2019-08-28T13:07:40.858522705 0.338010s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2019-08-28T13:07:40.858522706 0.338012s notice: Server ready, "DESKTOP_MJJ2EPU_jgg" e4d04cf3-0823-45a9-82c5-7ccae9e77a53
+2019-08-28T13:07:41.842150900 1.321304s info: Table 38cf1fb6-ddf6-499c-adaa-527995137171: Starting a new Raft election for term 4.
+2019-08-28T13:07:41.855116000 1.334556s info: Table 38cf1fb6-ddf6-499c-adaa-527995137171: This server is Raft leader for term 4. Latest log index is 9.
+2019-08-30T13:07:27.164328800 0.075497s notice: Running rethinkdb 2.3.6-windows (MSC 190024215)...
+2019-08-30T13:07:27.166311700 0.077168s notice: Running on 6.2.9200 (Windows 8, Server 2012)
+2019-08-30T13:07:27.167309000 0.077278s notice: Loading data from directory C:\\Users\\Rajat\\Desktop\\dating\\dateapp\\rethinkdb_data
+2019-08-30T13:07:27.226153800 0.136880s info: Automatically using cache size of 193 MB
+2019-08-30T13:07:27.239136800 0.149574s notice: Listening for intracluster connections on port 29015
+2019-08-30T13:07:27.346829500 0.257487s notice: Listening for client driver connections on port 28015
+2019-08-30T13:07:27.347826400 0.257746s notice: Listening for administrative HTTP connections on port 8080
+2019-08-30T13:07:27.347826401 0.257750s notice: Listening on cluster address: 127.0.0.1
+2019-08-30T13:07:27.347826402 0.257777s notice: Listening on driver address: 127.0.0.1
+2019-08-30T13:07:27.347826403 0.257779s notice: Listening on http address: 127.0.0.1
+2019-08-30T13:07:27.347826404 0.257780s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2019-08-30T13:07:27.347826405 0.257786s notice: Server ready, "DESKTOP_MJJ2EPU_jgg" e4d04cf3-0823-45a9-82c5-7ccae9e77a53
+2019-08-30T13:07:28.345158900 1.255224s info: Table 38cf1fb6-ddf6-499c-adaa-527995137171: Starting a new Raft election for term 5.
+2019-08-30T13:07:28.355135600 1.265238s info: Table 38cf1fb6-ddf6-499c-adaa-527995137171: This server is Raft leader for term 5. Latest log index is 13.

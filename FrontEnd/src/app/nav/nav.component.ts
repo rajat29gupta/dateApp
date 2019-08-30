@@ -10,7 +10,7 @@ import { MatSnackBar } from "@angular/material";
 })
 export class NavComponent implements OnInit {
   model: any = {};
-  constructor(   private rs: RegisterService,    public snackBar: MatSnackBar) { }
+  constructor( private router: Router,  private rs: RegisterService,    public snackBar: MatSnackBar) { }
 
   ngOnInit() {
     // this.authService.currentPhotoUrl.subscribe(model => this.photoUrl = model);
@@ -28,6 +28,8 @@ export class NavComponent implements OnInit {
         this.openSnackBar(
           "Success"
         );
+        this.router.navigate(["/dashboard"]);
+
         // this.rs.emailverify(result['email']).subscribe(a => {
         //   if (a == null) {
         //     swal("Error!", "Please verify your email to continue", "error");

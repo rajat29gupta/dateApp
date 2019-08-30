@@ -12,6 +12,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { DemoMaterialModule } from "./material-module";
 import { RegisterService } from "./user.service";
 import { HttpClientModule } from '@angular/common/http'; import { HttpModule } from '@angular/http';
+import { FileUploadModule } from "ng2-file-upload";
 @NgModule({
   declarations: [
     AppComponent,
@@ -21,6 +22,7 @@ import { HttpClientModule } from '@angular/common/http'; import { HttpModule } f
     UserComponent
   ],
   imports: [
+    FileUploadModule,
     DemoMaterialModule,
     BrowserModule,
     HttpClientModule,
